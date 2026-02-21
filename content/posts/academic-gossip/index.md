@@ -5,13 +5,16 @@ draft: false
 tags: ["原神", "海卡", "同人文", "论坛体"]
 categories: ["游玩手记"]
 featuredImage: "hangPI.jpg"
-summary: "学术无交集，生活全绑定。看建筑系与语言系导师如何在家‘互相折磨’。"
+summary: "看建筑系与语言系导师如何在家‘互相折磨’。"
 ---
 
 > **文章信息**
-> [cite_start]- **作者**：IvyBlond 
-> [cite_start]- **原文链接**：[LOFTER](https://www.lofter.com/lpost/1e6c1673_2bfa89c9d) 
-> [cite_start]- **说在前面**：搬运一下自己在 Lofter 的产物。大量 OOC 有，主要是图个开心，读博发疯产物，请多担待~ 
+
+**作者**：IvyBlond 
+
+**原文链接**：[LOFTER Link](https://www.lofter.com/lpost/1e6c1673_2bfa89c9d) 
+
+**说在前面**：搬运一下自己在 Lofter 的产物。大量 OOC 有，主要是图个开心，读博发疯产物，请多担待~ 
 
 ---
 
