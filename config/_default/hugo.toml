@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://IvyBlond.github.io"
+baseURL = "https://IvyBlond.github.io/"
 defaultContentLanguage = "zh-cn"
 
 hasCJKLanguage = true
