@@ -9,17 +9,17 @@ title = "DON's Blog (Feat. 姬子清）"
   isoCode = "cn"
   rtl = false
   dateFormat = "2006 年 1 月 2 日"
-  # logo = "img/logo.png"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My Blog"
-  copyright = "© 2026 -  IvyBlond All Rights Reserved."
+  description = "请记住，魈宝的生日是4.17"
+  copyright = "© 2026 - IvyBlond All Rights Reserved."
 
 [params.author]
    name = "IvyBlond"
    email = "chinnseigyoku@gmail.com"
    #image = "img/blowfish_logo.png"
    #imageQuality = 96
-   headline = "I'm only human"
+   headline = "Every cloud has a silver lining."
    bio = "A little bit about you"
    links = [
      { email = "mailto:chinnseigyoku@gmail.com" },
