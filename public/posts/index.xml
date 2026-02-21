@@ -8,7 +8,7 @@
     <language>zh-cn</language>
     <managingEditor>chinnseigyoku@gmail.com (IvyBlond)</managingEditor>
     <webMaster>chinnseigyoku@gmail.com (IvyBlond)</webMaster>
-    <copyright>© 2026 -  IvyBlond All Rights Reserved.</copyright>
+    <copyright>© 2026 - IvyBlond All Rights Reserved.</copyright>
     <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -19,6 +19,16 @@
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>面对不可逆的系统熵增与现实的荒诞，真正的坚韧从来不是无视周遭的严寒。第一篇博文是一篇基于2026年黄埔区高考模拟题的习作，希望能鼓励到寒冬里的大家。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/my-first-post/cover.png" />
+    </item>
+    
+    <item>
+      <title>【原神/海卡】疑似读博发疯产物：建筑语言系联合答疑楼</title>
+      <link>http://localhost:1313/posts/academic-gossip/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <author>chinnseigyoku@gmail.com (IvyBlond)</author>
+      <guid>http://localhost:1313/posts/academic-gossip/</guid>
+      <description>学术无交集，生活全绑定。看建筑系与语言系导师如何在家‘互相折磨’。</description>
+      
     </item>
     
   </channel>
