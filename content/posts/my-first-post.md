@@ -4,7 +4,7 @@ date: 2026-02-21
 draft: false
 tags: ["高考作文", "加缪", "做题家"]
 categories: ["随笔与记录"]
-featuredImage: "cover.png"
+featuredImage: "my-first-post/cover.png"
 summary: "面对不可逆的系统熵增与现实的荒诞，真正的坚韧从来不是无视周遭的严寒。第一篇博文是一篇基于2026年黄埔区高考模拟题的习作，希望能鼓励到寒冬里的大家。"
 ---
 
